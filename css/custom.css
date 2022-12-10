@@ -1,0 +1,27 @@
+/*Insert at least 4 style definitions (Actually did 6)*/
+
+/*Insert style that specifies font color*/
+a:visited {color: red;}
+
+h1 {font-size: 40px;}
+
+/*Insert style that specifies font family*/
+/*Insert style that specifies font color*/
+h1, h4 {
+    font-family: fantasy;
+    color: darkblue;
+}
+
+h4 {font-size: 25px;}
+
+/*Insert custom background color*/
+/*Insert style that specifies font family*/
+/*Insert style that specifies font color*/
+body { 
+    color: black;
+    background-color: lightgoldenrodyellow;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.italic {font-style: italic;}
